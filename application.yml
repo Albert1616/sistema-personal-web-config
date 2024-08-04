@@ -20,8 +20,3 @@ springdoc:
   swagger-ui:
     disable-swagger-default-url: true
     url: .
-    
-security:
-  jwt:
-    expiracao: 30
-    chave-assinatura: T0xIQSBTTyBWT0NFIFFVRSBjb2lzYSBtYWlzIGxlZ2FsIHNlZ3VyYXIgZXNzYSBiYXJyYSBxdWUggiBnb3N0YWRlIHZjISEhISE=
